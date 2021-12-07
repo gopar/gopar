@@ -1,16 +1,16 @@
-### Hi there 👋
+<p><pre align="center">
+<strong>Gopar /</strong>
+<a href="https://www.pygopar.com/">Personal Blog</a>
+/ <a href="https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists">YouTube Tutorials</a>
+/ <a href="https://twitter.com/pygopar">Twitter</a>
+/ <a href="https://github.com/gopar">GitHub</a>
+</pre></p>
 
-<!--
-**gopar/gopar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Software Engineer (Python/React) currently working at @styleseat \o/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning about [Django](https://www.djangoproject.com/) and [Django Rest Framework (DRF)](https://www.django-rest-framework.org/)
+- I’m looking for help with [Elpy](https://github.com/jorgenschaefer/elpy/)!
+- Ask me about: [Emacs](https://www.gnu.org/software/emacs/)
+- How to reach me: i'm @gopar in IRC (libera.chat). Mainly #emacs/#python channel
+- Pronouns: He/Him
+- ⚡ Fun fact: I play a few instruments. Always down to talk music
