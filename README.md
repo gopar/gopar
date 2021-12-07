@@ -7,4 +7,4 @@ I'm a Full-Stack Software Engineer (Python/React) currently working at [@stylese
 - Ask me about: [Emacs](https://www.gnu.org/software/emacs/)
 - How to reach me: i'm @gopar in IRC (libera.chat). Mainly #emacs/#python channel
 - Pronouns: He/Him
-- ⚡ Fun fact: I play a few instruments. Always down to talk music
+- ⚡ Fun fact: I play a few instruments  do recreational powerlifting 🏋️‍♂️and play chess semi competively ♟
