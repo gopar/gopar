@@ -1,6 +1,6 @@
 <p><pre align="center"> <strong>Gopar /</strong> <a href="https://www.pygopar.com/">Blog</a> / <a href="https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists">YouTube Tutorials</a> / <a href="https://twitter.com/pygopar">Twitter</a> / <a href="https://www.twitch.tv/gopar">Twitch</a> / <a href="https://www.chess.com/member/goparman">Chess.com</a></pre></p>
 
-<h2>Contractor specializing in Django/Python work 🐍 </h2>
+<h2>Contractor specializing in Python work 🐍 </h2>
 <h3>Feel free to reach out for any questions :)</h3>
 
 Now for some random facts \o/
