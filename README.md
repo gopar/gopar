@@ -4,7 +4,7 @@
 <h3>Feel free to reach out for any questions :)</h3>
 
 Now for some random facts \o/
-- Always learning more about [Django](https://www.djangoproject.com/), [Django Rest Framework (DRF)](https://www.django-rest-framework.org/) and [Org-Mode](https://orgmode.org/)
+- Always learning more about [Django](https://www.djangoproject.com/), [Django Rest Framework (DRF)](https://www.django-rest-framework.org/), [Vue.js](vuejs.org/) and [Org-Mode](https://orgmode.org/)
 - I’m looking for help with [Elpy](https://github.com/jorgenschaefer/elpy/)! (Emacs Plugin for Python Development)!
 - Ask me about: [Emacs](https://www.gnu.org/software/emacs/)
 - How to reach me: gopardaniel at gmail, also, i'm @gopar in IRC (libera.chat). 
