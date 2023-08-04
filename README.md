@@ -4,6 +4,7 @@
 <h3>Feel free to reach out for any questions :)</h3>
 
 Now for some random facts \o/
+- Producing Engineering and Emacs Content over at my [YT Channel :)](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists)
 - Always learning more about [Vue.js](vuejs.org/), [Django](https://www.djangoproject.com/), [Django Rest Framework (DRF)](https://www.django-rest-framework.org/), and [Org-Mode](https://orgmode.org/)
 - I’m looking for help with [Elpy](https://github.com/jorgenschaefer/elpy/)! (Emacs Plugin for Python Development)!
 - Ask me about: [Emacs](https://www.gnu.org/software/emacs/)
