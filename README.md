@@ -20,9 +20,5 @@
 
 ### ⚡ Fun Facts
 - 🎶 I play a few instruments (In Math Rock Band)
-- 🏋️‍♂️ Recreational powerlifting
+- 🏋️‍♂️ Recreational bodybuilding (used to do powerlifting)
 - ♟️ Play chess semi-competitively
-
-
-
-### 🤝 Open for Collaboration and Contract Work!
