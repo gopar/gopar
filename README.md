@@ -1,4 +1,5 @@
-### 👋 Hi there, I'm **Gopar**! 👋
+### 👋 Hi there, I'm **Gopar**!
+Here are few things I'm up to:
 - 📹 [YouTube Tutorials](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists)
 - 📝 [Blog](https://www.pygopar.com/)
 - 🎮 [Twitch](https://www.twitch.tv/gopar)
@@ -6,7 +7,7 @@
 
 
 
-## 🐍 Full Stack Contractor Specializing in [Django](https://www.djangoproject.com/), [DRF](https://www.django-rest-framework.org/), [Vue.js](https://vuejs.org/) and more! 🐍
+## 🐍 Full Stack Contractor Specializing in [Django](https://www.djangoproject.com/), [DRF](https://www.django-rest-framework.org/), [Vue.js](https://vuejs.org/)
 
 📫 **How to reach me**: gopardaniel on gmail or [LinkedIn](https://www.linkedin.com/in/daniel-gopar-756b945b/)
 
