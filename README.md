@@ -6,7 +6,7 @@ Here are few things I'm up to:
 
 
 
-## 🐍 Full Stack Contractor Specializing in [Django](https://www.djangoproject.com/), & [DRF](https://www.django-rest-framework.org/)
+## 🐍 Full Stack Engineer Specializing in [Django](https://www.djangoproject.com/), [DRF](https://www.django-rest-framework.org/) & [Vue.js](https://vuejs.org/)
 
 📫 **How to reach me**: gopardaniel on gmail or [LinkedIn](https://www.linkedin.com/in/daniel-gopar-756b945b/)
 
