@@ -1,24 +1,24 @@
-### 👋 Hi there, I'm **Gopar**!
-Here are few things I'm up to:
-- 📹 [YouTube Tutorials](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists)
-- 📝 [Blog](https://www.pygopar.com/)
-- ♟️ [Chess.com](https://www.chess.com/member/goparman)
+### 👋 Hey, I'm **Gopar**
 
+I help teams **make Django + Postgres fast** — fixing slow queries, eliminating N+1s, and improving p50–p99 latency through ORM tuning, indexing, and config optimization.
 
+### 🚀 What I Do
+- 🐍 Backend performance engineering (Django, DRF)
+- 🐘 Postgres query tuning (EXPLAIN/ANALYZE, indexing, vacuum/config tuning)
+- 🧪 Building tools + content around Python performance & database internals
+- 🎥 Teaching on YouTube ([Performance + Engineering](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists))
+- 📝 Writing technical deep-dives on my blog: https://www.pygopar.com
 
-## 🐍 Full Stack Engineer Specializing in [Django](https://www.djangoproject.com/), [DRF](https://www.django-rest-framework.org/) & [Vue.js](https://vuejs.org/)
+### 🌱 Currently
+- Designing **Django/Postgres performance audits** for engineering teams
+- Producing long-form content on query plans, ORM anti-patterns, and DB internals
+- Working on Emacs tooling for Python productivity
 
-📫 **How to reach me**: gopardaniel on gmail or [LinkedIn](https://www.linkedin.com/in/daniel-gopar-756b945b/)
+### 📫 Reach Me
+**Email:** gopardaniel at gmail
+**LinkedIn:** https://www.linkedin.com/in/daniel-gopar-756b945b/
 
-
-
-### 🚀 What I'm Currently Working On
-- Enhancing [Elpy](https://github.com/jorgenschaefer/elpy/), an Emacs Plugin for Python Development
-- Producing engineering and Emacs content on [my YouTube Channel](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists)
-
-
-
-### ⚡ Fun Facts
-- 🎶 I play a few instruments (In Math Rock Band)
-- 🏋️‍♂️ Recreational bodybuilding (used to do powerlifting)
-- ♟️ Play chess semi-competitively
+### ⚡ Fun
+- 🎶 Math-rock guitarist / drummer
+- 🏋️ Gym + running (ex-powerlifter)
+- ♟️ Chess enjoyer
