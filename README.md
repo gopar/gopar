@@ -6,7 +6,6 @@ I help teams **make Django + Postgres fast** — fixing slow queries, eliminatin
 - 🐍 Backend performance engineering (Django, DRF)
 - 🐘 Postgres query tuning (EXPLAIN/ANALYZE, indexing, vacuum/config tuning)
 - 🧪 Building tools + content around Python performance & database internals
-- 🎥 Teaching on YouTube ([Performance + Engineering](https://www.youtube.com/channel/UCCRdRbI93UGW0AZttVH3SbA/playlists))
 - 📝 Writing technical deep-dives on my blog: https://www.pygopar.com
 
 ### 🌱 Currently
