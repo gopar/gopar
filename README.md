@@ -1,10 +1,10 @@
 ### 👋 Hey, I'm **Gopar**
 
-I help teams **make Django + Postgres fast** — fixing slow queries, eliminating N+1s, and improving p50–p99 latency through ORM tuning, indexing, and config optimization.
+I help teams **make Django + Postgres fast** — fixing slow queries, and improving p50–p99 latency through ORM tuning, indexing, and config optimization.
 
 ### 🚀 What I Do
 - 🐍 Backend performance engineering (Django, DRF)
-- 🐘 Postgres query tuning (EXPLAIN/ANALYZE, indexing, vacuum/config tuning)
+- 🐘 Postgres query tuning
 - 🧪 Building tools + content around Python performance & database internals
 - 📝 Writing technical deep-dives on my blog: https://www.pygopar.com
 
